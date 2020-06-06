@@ -1,0 +1,107 @@
+---
+title: "Home: Introduction to R"
+output:
+  html_document:
+    toc: TRUE
+    toc_float: TRUE
+---
+
+## Dashboard Basics
+
+### Components
+
+This website was and still is an excercise for me learn R markdown and its family of realted packages such as knitr, bookdown and bloagdown.
+ 
+To be honest are many overlap.
+
+Everytthin in R is an object. In R this mean an bastract thing that can be stalled. Examples vector, list, functions, interge, string, dataframe.
+In SAS you could say dataset, data step, procedures, macro function etc. While in SAS you run these chunck or store in %inc them R has the concept
+of storing this objects in a variable to called later.
+
+Variants and Dialiac  
+ 
+
+
+You can use flexdashboard to publish groups of related data visualizations as a dashboard. A flexdashboard can either be static (a standard web page) or dynamic (a [Shiny](http://shiny.rstudio.com) interactive document). A wide variety of components can be included in flexdashboard layouts, including:
+
+1. Interactive JavaScript data visualizations based on [htmlwidgets](http://www.htmlwidgets.org). 
+
+2. R graphical output including base, lattice, and grid graphics. 
+
+3. Tabular data (with optional sorting, filtering, and paging).
+
+4. Value boxes for highlighting important summary data. 
+
+5. Gauges for displaying values on a meter within a specified range.
+
+6. Text annotations of various kinds.
+
+See the [dashboard components](using.html#components) documentation for additional details on the use of each component type.
+
+### Layout
+
+#### Single Column (Fill)
+
+Dashboards are divided into columns and rows, with output components delineated using level 3 markdown headers (`###`). By default, dashboards are laid out within a single column, with charts  stacked vertically within a column and sized to fill available browser height. For example, this layout defines a single column with two charts that fills available browser space:
+
+
+
+### Components2
+
+You can use flexdashboard to publish groups of related data visualizations as a dashboard. A flexdashboard can either be static (a standard web page) or dynamic (a [Shiny](http://shiny.rstudio.com) interactive document). A wide variety of components can be included in flexdashboard layouts, including:
+
+1. Interactive JavaScript data visualizations based on [htmlwidgets](http://www.htmlwidgets.org). 
+
+2. R graphical output including base, lattice, and grid graphics [paper](4425-2020.pdf). 
+
+3. Tabular data (with optional sorting, filtering, and paging).
+
+4. Value boxes for highlighting important summary data. 
+
+5. Gauges for displaying values on a meter within a specified range.
+
+6. Text annotations of various kinds.
+
+See the [dashboard components](using.html#components) documentation for additional details on the use of each component type.
+
+### Layout2
+
+#### Single Column (Fill)2 
+
+Dashboards are divided into columns and rows, with output components delineated using level 3 markdown headers (`###`). By default, dashboards are laid out within a single column, with charts  stacked vertically within a column and sized to fill available browser height. For example, this layout defines a single column with two charts that fills available browser space:
+
+
+### Components2
+
+You can use flexdashboard to publish groups of related data visualizations as a dashboard. A flexdashboard can either be static (a standard web page) or dynamic (a [Shiny](http://shiny.rstudio.com) interactive document). A wide variety of components can be included in flexdashboard layouts, including:
+
+1. Interactive JavaScript data visualizations based on [htmlwidgets](http://www.htmlwidgets.org). 
+
+2. R graphical output including base, lattice, and grid graphics. 
+
+3. Tabular data (with optional sorting, filtering, and paging).
+
+4. Value boxes for highlighting important summary data. 
+
+5. Gauges for displaying values on a meter within a specified range.
+
+6. Text annotations of various kinds.
+
+See the [dashboard components](using.html#components) documentation for additional details on the use of each component type.
+
+### Layout2
+
+#### Single Column (Fill)2
+
+Dashboards are divided into columns and rows, with output components delineated using level 3 markdown headers (`###`). By default, dashboards are laid out within a single column, with charts  stacked vertically within a column and sized to fill available browser height. For example, this layout defines a single column with two charts that fills available browser space:
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,49 @@
+---
+title: "dplyr"
+output:
+  html_document:
+    toc: TRUE
+    toc_float: TRUE
+---
+
+## dplyr 
+
+How to install R on Windows, Mac OS X and Ubuntu
+
+This is a beginner guide that is designed to save yourself a headache and valuable time if you decide to install R yourself.
+
+I am a professor and I don't like to spend one hour of the class or workshop installing R. To tackle that problem I polished 
+
+these instructions over time by doing experiments with different machines in order to maximize the in-classroom experience.
+
+What you'll find here is a collection of lines of code that work when installing R, and of course I tried a lot of things that 
+
+didn't work before obtaining the actual result.
+
+
+## Installing Rstudio
+
+
+## Installing Packages
+
+
+```{r}
+
+mtcars
+
+```
+
+
+* Use [R Markdown](http://rmarkdown.rstudio.com) to publish a group of related data visualizations as a dashboard.
+
+* Support for a wide variety of components including [htmlwidgets](http://www.htmlwidgets.org); base, lattice, and grid graphics; tabular data; gauges and value boxes; and text annotations.
+
+* Flexible and easy to specify row and column-based [layouts](layouts.html). Components are intelligently re-sized to fill the browser and adapted for display on mobile devices.
+
+* [Storyboard](using.html#storyboards) layouts for presenting sequences of visualizations and related commentary.
+
+* Optionally use [Shiny](http://shiny.rstudio.com) to drive visualizations dynamically.
+
+
+
+
